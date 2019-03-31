@@ -1,7 +1,7 @@
 # gpuGraph
 A very simple moving graph of GPU activity for the NVIDIA Jetson Nano Developer Kit. This allows visualization of GPU utilization.
 
-![GPU Activity Window](https://github.com/jetsonhacks/gpuGraph/blob/master/gpuGraph.png)
+![GPU Activity Window](https://github.com/jetsonhacksnano/gpuGraph/blob/master/gpuGraph.png)
 
 The graph is implemented as an animated Python Matplotlib graph. The app requires the Python Matplotlib library.
 
